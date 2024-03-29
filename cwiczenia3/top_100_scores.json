@@ -1,0 +1,602 @@
+[
+    {
+        "ranking_imdb": 1,
+        "tytul_filmu": "The Shawshank Redemption",
+        "ocena_rotten_tomatoes": "89",
+        "ocena_imdb": 9.3
+    },
+    {
+        "ranking_imdb": 2,
+        "tytul_filmu": "The Godfather",
+        "ocena_rotten_tomatoes": "97",
+        "ocena_imdb": 9.2
+    },
+    {
+        "ranking_imdb": 3,
+        "tytul_filmu": "The Dark Knight",
+        "ocena_rotten_tomatoes": "94",
+        "ocena_imdb": 9.0
+    },
+    {
+        "ranking_imdb": 4,
+        "tytul_filmu": "The Godfather Part II",
+        "ocena_rotten_tomatoes": "Page not found on Rotten_Tomatoes",
+        "ocena_imdb": 9.0
+    },
+    {
+        "ranking_imdb": 5,
+        "tytul_filmu": "12 Angry Men",
+        "ocena_rotten_tomatoes": "Page not found on Rotten_Tomatoes",
+        "ocena_imdb": 9.0
+    },
+    {
+        "ranking_imdb": 6,
+        "tytul_filmu": "Schindler's List",
+        "ocena_rotten_tomatoes": "Page not found on Rotten_Tomatoes",
+        "ocena_imdb": 9.0
+    },
+    {
+        "ranking_imdb": 7,
+        "tytul_filmu": "The Lord of the Rings: The Return of the King",
+        "ocena_rotten_tomatoes": "Page not found on Rotten_Tomatoes",
+        "ocena_imdb": 9.0
+    },
+    {
+        "ranking_imdb": 8,
+        "tytul_filmu": "Pulp Fiction",
+        "ocena_rotten_tomatoes": "92",
+        "ocena_imdb": 8.9
+    },
+    {
+        "ranking_imdb": 9,
+        "tytul_filmu": "The Lord of the Rings: The Fellowship of the Ring",
+        "ocena_rotten_tomatoes": "Page not found on Rotten_Tomatoes",
+        "ocena_imdb": 8.9
+    },
+    {
+        "ranking_imdb": 10,
+        "tytul_filmu": "The Good, the Bad and the Ugly",
+        "ocena_rotten_tomatoes": "Page not found on Rotten_Tomatoes",
+        "ocena_imdb": 8.8
+    },
+    {
+        "ranking_imdb": 11,
+        "tytul_filmu": "Forrest Gump",
+        "ocena_rotten_tomatoes": "76",
+        "ocena_imdb": 8.8
+    },
+    {
+        "ranking_imdb": 12,
+        "tytul_filmu": "The Lord of the Rings: The Two Towers",
+        "ocena_rotten_tomatoes": "Page not found on Rotten_Tomatoes",
+        "ocena_imdb": 8.8
+    },
+    {
+        "ranking_imdb": 13,
+        "tytul_filmu": "Fight Club",
+        "ocena_rotten_tomatoes": "80",
+        "ocena_imdb": 8.8
+    },
+    {
+        "ranking_imdb": 14,
+        "tytul_filmu": "Inception",
+        "ocena_rotten_tomatoes": "87",
+        "ocena_imdb": 8.8
+    },
+    {
+        "ranking_imdb": 15,
+        "tytul_filmu": "Dune: Part Two",
+        "ocena_rotten_tomatoes": "Page not found on Rotten_Tomatoes",
+        "ocena_imdb": 8.8
+    },
+    {
+        "ranking_imdb": 16,
+        "tytul_filmu": "Star Wars: Episode V - The Empire Strikes Back",
+        "ocena_rotten_tomatoes": "Page not found on Rotten_Tomatoes",
+        "ocena_imdb": 8.7
+    },
+    {
+        "ranking_imdb": 17,
+        "tytul_filmu": "The Matrix",
+        "ocena_rotten_tomatoes": "83",
+        "ocena_imdb": 8.7
+    },
+    {
+        "ranking_imdb": 18,
+        "tytul_filmu": "Goodfellas",
+        "ocena_rotten_tomatoes": "95",
+        "ocena_imdb": 8.7
+    },
+    {
+        "ranking_imdb": 19,
+        "tytul_filmu": "One Flew Over the Cuckoo's Nest",
+        "ocena_rotten_tomatoes": "Page not found on Rotten_Tomatoes",
+        "ocena_imdb": 8.7
+    },
+    {
+        "ranking_imdb": 20,
+        "tytul_filmu": "Se7en",
+        "ocena_rotten_tomatoes": "Page not found on Rotten_Tomatoes",
+        "ocena_imdb": 8.6
+    },
+    {
+        "ranking_imdb": 21,
+        "tytul_filmu": "Interstellar",
+        "ocena_rotten_tomatoes": "73",
+        "ocena_imdb": 8.7
+    },
+    {
+        "ranking_imdb": 22,
+        "tytul_filmu": "It's a Wonderful Life",
+        "ocena_rotten_tomatoes": "Page not found on Rotten_Tomatoes",
+        "ocena_imdb": 8.6
+    },
+    {
+        "ranking_imdb": 23,
+        "tytul_filmu": "Seven Samurai",
+        "ocena_rotten_tomatoes": "Page not found on Rotten_Tomatoes",
+        "ocena_imdb": 8.6
+    },
+    {
+        "ranking_imdb": 24,
+        "tytul_filmu": "The Silence of the Lambs",
+        "ocena_rotten_tomatoes": "95",
+        "ocena_imdb": 8.6
+    },
+    {
+        "ranking_imdb": 25,
+        "tytul_filmu": "Saving Private Ryan",
+        "ocena_rotten_tomatoes": "94",
+        "ocena_imdb": 8.6
+    },
+    {
+        "ranking_imdb": 26,
+        "tytul_filmu": "City of God",
+        "ocena_rotten_tomatoes": "91",
+        "ocena_imdb": 8.6
+    },
+    {
+        "ranking_imdb": 27,
+        "tytul_filmu": "Life Is Beautiful",
+        "ocena_rotten_tomatoes": "",
+        "ocena_imdb": 8.6
+    },
+    {
+        "ranking_imdb": 28,
+        "tytul_filmu": "The Green Mile",
+        "ocena_rotten_tomatoes": "79",
+        "ocena_imdb": 8.6
+    },
+    {
+        "ranking_imdb": 29,
+        "tytul_filmu": "Terminator 2: Judgment Day",
+        "ocena_rotten_tomatoes": "Page not found on Rotten_Tomatoes",
+        "ocena_imdb": 8.6
+    },
+    {
+        "ranking_imdb": 30,
+        "tytul_filmu": "Star Wars: Episode IV - A New Hope",
+        "ocena_rotten_tomatoes": "Page not found on Rotten_Tomatoes",
+        "ocena_imdb": 8.6
+    },
+    {
+        "ranking_imdb": 31,
+        "tytul_filmu": "Back to the Future",
+        "ocena_rotten_tomatoes": "93",
+        "ocena_imdb": 8.5
+    },
+    {
+        "ranking_imdb": 32,
+        "tytul_filmu": "Spirited Away",
+        "ocena_rotten_tomatoes": "96",
+        "ocena_imdb": 8.6
+    },
+    {
+        "ranking_imdb": 33,
+        "tytul_filmu": "The Pianist",
+        "ocena_rotten_tomatoes": "",
+        "ocena_imdb": 8.5
+    },
+    {
+        "ranking_imdb": 34,
+        "tytul_filmu": "Parasite",
+        "ocena_rotten_tomatoes": "",
+        "ocena_imdb": 8.5
+    },
+    {
+        "ranking_imdb": 35,
+        "tytul_filmu": "Psycho",
+        "ocena_rotten_tomatoes": "97",
+        "ocena_imdb": 8.5
+    },
+    {
+        "ranking_imdb": 36,
+        "tytul_filmu": "Spider-Man: Across the Spider-Verse",
+        "ocena_rotten_tomatoes": "Page not found on Rotten_Tomatoes",
+        "ocena_imdb": 8.6
+    },
+    {
+        "ranking_imdb": 37,
+        "tytul_filmu": "Gladiator",
+        "ocena_rotten_tomatoes": "79",
+        "ocena_imdb": 8.5
+    },
+    {
+        "ranking_imdb": 38,
+        "tytul_filmu": "The Lion King",
+        "ocena_rotten_tomatoes": "92",
+        "ocena_imdb": 8.5
+    },
+    {
+        "ranking_imdb": 39,
+        "tytul_filmu": "L\u00e9on: The Professional",
+        "ocena_rotten_tomatoes": "Page not found on Rotten_Tomatoes",
+        "ocena_imdb": 8.5
+    },
+    {
+        "ranking_imdb": 40,
+        "tytul_filmu": "The Departed",
+        "ocena_rotten_tomatoes": "91",
+        "ocena_imdb": 8.5
+    },
+    {
+        "ranking_imdb": 41,
+        "tytul_filmu": "American History X",
+        "ocena_rotten_tomatoes": "84",
+        "ocena_imdb": 8.5
+    },
+    {
+        "ranking_imdb": 42,
+        "tytul_filmu": "Whiplash",
+        "ocena_rotten_tomatoes": "",
+        "ocena_imdb": 8.5
+    },
+    {
+        "ranking_imdb": 43,
+        "tytul_filmu": "The Prestige",
+        "ocena_rotten_tomatoes": "Page not found on Rotten_Tomatoes",
+        "ocena_imdb": 8.5
+    },
+    {
+        "ranking_imdb": 44,
+        "tytul_filmu": "Grave of the Fireflies",
+        "ocena_rotten_tomatoes": "100",
+        "ocena_imdb": 8.5
+    },
+    {
+        "ranking_imdb": 45,
+        "tytul_filmu": "Harakiri",
+        "ocena_rotten_tomatoes": "100",
+        "ocena_imdb": 8.6
+    },
+    {
+        "ranking_imdb": 46,
+        "tytul_filmu": "The Usual Suspects",
+        "ocena_rotten_tomatoes": "Page not found on Rotten_Tomatoes",
+        "ocena_imdb": 8.5
+    },
+    {
+        "ranking_imdb": 47,
+        "tytul_filmu": "Casablanca",
+        "ocena_rotten_tomatoes": "",
+        "ocena_imdb": 8.5
+    },
+    {
+        "ranking_imdb": 48,
+        "tytul_filmu": "The Intouchables",
+        "ocena_rotten_tomatoes": "76",
+        "ocena_imdb": 8.5
+    },
+    {
+        "ranking_imdb": 49,
+        "tytul_filmu": "Cinema Paradiso",
+        "ocena_rotten_tomatoes": "90",
+        "ocena_imdb": 8.5
+    },
+    {
+        "ranking_imdb": 50,
+        "tytul_filmu": "Modern Times",
+        "ocena_rotten_tomatoes": "98",
+        "ocena_imdb": 8.5
+    },
+    {
+        "ranking_imdb": 51,
+        "tytul_filmu": "Rear Window",
+        "ocena_rotten_tomatoes": "98",
+        "ocena_imdb": 8.5
+    },
+    {
+        "ranking_imdb": 52,
+        "tytul_filmu": "Once Upon a Time in the West",
+        "ocena_rotten_tomatoes": "96",
+        "ocena_imdb": 8.5
+    },
+    {
+        "ranking_imdb": 53,
+        "tytul_filmu": "Alien",
+        "ocena_rotten_tomatoes": "93",
+        "ocena_imdb": 8.5
+    },
+    {
+        "ranking_imdb": 54,
+        "tytul_filmu": "City Lights",
+        "ocena_rotten_tomatoes": "95",
+        "ocena_imdb": 8.5
+    },
+    {
+        "ranking_imdb": 55,
+        "tytul_filmu": "Apocalypse Now",
+        "ocena_rotten_tomatoes": "97",
+        "ocena_imdb": 8.4
+    },
+    {
+        "ranking_imdb": 56,
+        "tytul_filmu": "Django Unchained",
+        "ocena_rotten_tomatoes": "87",
+        "ocena_imdb": 8.5
+    },
+    {
+        "ranking_imdb": 57,
+        "tytul_filmu": "12th Fail",
+        "ocena_rotten_tomatoes": "91",
+        "ocena_imdb": 9.0
+    },
+    {
+        "ranking_imdb": 58,
+        "tytul_filmu": "Memento",
+        "ocena_rotten_tomatoes": "94",
+        "ocena_imdb": 8.4
+    },
+    {
+        "ranking_imdb": 59,
+        "tytul_filmu": "WALL\u00b7E",
+        "ocena_rotten_tomatoes": "Page not found on Rotten_Tomatoes",
+        "ocena_imdb": 8.4
+    },
+    {
+        "ranking_imdb": 60,
+        "tytul_filmu": "Raiders of the Lost Ark",
+        "ocena_rotten_tomatoes": "93",
+        "ocena_imdb": 8.4
+    },
+    {
+        "ranking_imdb": 61,
+        "tytul_filmu": "The Lives of Others",
+        "ocena_rotten_tomatoes": "92",
+        "ocena_imdb": 8.4
+    },
+    {
+        "ranking_imdb": 62,
+        "tytul_filmu": "Sunset Blvd.",
+        "ocena_rotten_tomatoes": "Page not found on Rotten_Tomatoes",
+        "ocena_imdb": 8.4
+    },
+    {
+        "ranking_imdb": 63,
+        "tytul_filmu": "Paths of Glory",
+        "ocena_rotten_tomatoes": "96",
+        "ocena_imdb": 8.4
+    },
+    {
+        "ranking_imdb": 64,
+        "tytul_filmu": "Avengers: Infinity War",
+        "ocena_rotten_tomatoes": "Page not found on Rotten_Tomatoes",
+        "ocena_imdb": 8.4
+    },
+    {
+        "ranking_imdb": 65,
+        "tytul_filmu": "Spider-Man: Into the Spider-Verse",
+        "ocena_rotten_tomatoes": "Page not found on Rotten_Tomatoes",
+        "ocena_imdb": 8.4
+    },
+    {
+        "ranking_imdb": 66,
+        "tytul_filmu": "The Shining",
+        "ocena_rotten_tomatoes": "Page not found on Rotten_Tomatoes",
+        "ocena_imdb": 8.4
+    },
+    {
+        "ranking_imdb": 67,
+        "tytul_filmu": "Witness for the Prosecution",
+        "ocena_rotten_tomatoes": "100",
+        "ocena_imdb": 8.4
+    },
+    {
+        "ranking_imdb": 68,
+        "tytul_filmu": "The Great Dictator",
+        "ocena_rotten_tomatoes": "Page not found on Rotten_Tomatoes",
+        "ocena_imdb": 8.4
+    },
+    {
+        "ranking_imdb": 69,
+        "tytul_filmu": "Aliens",
+        "ocena_rotten_tomatoes": "Page not found on Rotten_Tomatoes",
+        "ocena_imdb": 8.4
+    },
+    {
+        "ranking_imdb": 70,
+        "tytul_filmu": "Inglourious Basterds",
+        "ocena_rotten_tomatoes": "89",
+        "ocena_imdb": 8.4
+    },
+    {
+        "ranking_imdb": 71,
+        "tytul_filmu": "The Dark Knight Rises",
+        "ocena_rotten_tomatoes": "87",
+        "ocena_imdb": 8.4
+    },
+    {
+        "ranking_imdb": 72,
+        "tytul_filmu": "Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb",
+        "ocena_rotten_tomatoes": "Page not found on Rotten_Tomatoes",
+        "ocena_imdb": 8.4
+    },
+    {
+        "ranking_imdb": 73,
+        "tytul_filmu": "American Beauty",
+        "ocena_rotten_tomatoes": "87",
+        "ocena_imdb": 8.3
+    },
+    {
+        "ranking_imdb": 74,
+        "tytul_filmu": "Oldboy",
+        "ocena_rotten_tomatoes": "83",
+        "ocena_imdb": 8.3
+    },
+    {
+        "ranking_imdb": 75,
+        "tytul_filmu": "Coco",
+        "ocena_rotten_tomatoes": "",
+        "ocena_imdb": 8.4
+    },
+    {
+        "ranking_imdb": 76,
+        "tytul_filmu": "Amadeus",
+        "ocena_rotten_tomatoes": "89",
+        "ocena_imdb": 8.4
+    },
+    {
+        "ranking_imdb": 77,
+        "tytul_filmu": "Toy Story",
+        "ocena_rotten_tomatoes": "100",
+        "ocena_imdb": 8.3
+    },
+    {
+        "ranking_imdb": 78,
+        "tytul_filmu": "Das Boot",
+        "ocena_rotten_tomatoes": "98",
+        "ocena_imdb": 8.4
+    },
+    {
+        "ranking_imdb": 79,
+        "tytul_filmu": "Braveheart",
+        "ocena_rotten_tomatoes": "",
+        "ocena_imdb": 8.3
+    },
+    {
+        "ranking_imdb": 80,
+        "tytul_filmu": "Avengers: Endgame",
+        "ocena_rotten_tomatoes": "Page not found on Rotten_Tomatoes",
+        "ocena_imdb": 8.4
+    },
+    {
+        "ranking_imdb": 81,
+        "tytul_filmu": "Joker",
+        "ocena_rotten_tomatoes": "",
+        "ocena_imdb": 8.4
+    },
+    {
+        "ranking_imdb": 82,
+        "tytul_filmu": "Princess Mononoke",
+        "ocena_rotten_tomatoes": "93",
+        "ocena_imdb": 8.3
+    },
+    {
+        "ranking_imdb": 83,
+        "tytul_filmu": "Good Will Hunting",
+        "ocena_rotten_tomatoes": "97",
+        "ocena_imdb": 8.3
+    },
+    {
+        "ranking_imdb": 84,
+        "tytul_filmu": "Your Name.",
+        "ocena_rotten_tomatoes": "Page not found on Rotten_Tomatoes",
+        "ocena_imdb": 8.4
+    },
+    {
+        "ranking_imdb": 85,
+        "tytul_filmu": "Once Upon a Time in America",
+        "ocena_rotten_tomatoes": "87",
+        "ocena_imdb": 8.3
+    },
+    {
+        "ranking_imdb": 86,
+        "tytul_filmu": "High and Low",
+        "ocena_rotten_tomatoes": "96",
+        "ocena_imdb": 8.4
+    },
+    {
+        "ranking_imdb": 87,
+        "tytul_filmu": "3 Idiots",
+        "ocena_rotten_tomatoes": "100",
+        "ocena_imdb": 8.4
+    },
+    {
+        "ranking_imdb": 88,
+        "tytul_filmu": "Singin' in the Rain",
+        "ocena_rotten_tomatoes": "Page not found on Rotten_Tomatoes",
+        "ocena_imdb": 8.3
+    },
+    {
+        "ranking_imdb": 89,
+        "tytul_filmu": "Oppenheimer",
+        "ocena_rotten_tomatoes": "Page not found on Rotten_Tomatoes",
+        "ocena_imdb": 8.3
+    },
+    {
+        "ranking_imdb": 90,
+        "tytul_filmu": "Capernaum",
+        "ocena_rotten_tomatoes": "90",
+        "ocena_imdb": 8.4
+    },
+    {
+        "ranking_imdb": 91,
+        "tytul_filmu": "Requiem for a Dream",
+        "ocena_rotten_tomatoes": "78",
+        "ocena_imdb": 8.3
+    },
+    {
+        "ranking_imdb": 92,
+        "tytul_filmu": "Come and See",
+        "ocena_rotten_tomatoes": "90",
+        "ocena_imdb": 8.4
+    },
+    {
+        "ranking_imdb": 93,
+        "tytul_filmu": "Toy Story 3",
+        "ocena_rotten_tomatoes": "98",
+        "ocena_imdb": 8.3
+    },
+    {
+        "ranking_imdb": 94,
+        "tytul_filmu": "Star Wars: Episode VI - Return of the Jedi",
+        "ocena_rotten_tomatoes": "Page not found on Rotten_Tomatoes",
+        "ocena_imdb": 8.3
+    },
+    {
+        "ranking_imdb": 95,
+        "tytul_filmu": "Eternal Sunshine of the Spotless Mind",
+        "ocena_rotten_tomatoes": "92",
+        "ocena_imdb": 8.3
+    },
+    {
+        "ranking_imdb": 96,
+        "tytul_filmu": "The Hunt",
+        "ocena_rotten_tomatoes": "",
+        "ocena_imdb": 8.3
+    },
+    {
+        "ranking_imdb": 97,
+        "tytul_filmu": "2001: A Space Odyssey",
+        "ocena_rotten_tomatoes": "Page not found on Rotten_Tomatoes",
+        "ocena_imdb": 8.3
+    },
+    {
+        "ranking_imdb": 98,
+        "tytul_filmu": "Reservoir Dogs",
+        "ocena_rotten_tomatoes": "90",
+        "ocena_imdb": 8.3
+    },
+    {
+        "ranking_imdb": 99,
+        "tytul_filmu": "Ikiru",
+        "ocena_rotten_tomatoes": "98",
+        "ocena_imdb": 8.3
+    },
+    {
+        "ranking_imdb": 100,
+        "tytul_filmu": "Lawrence of Arabia",
+        "ocena_rotten_tomatoes": "94",
+        "ocena_imdb": 8.3
+    }
+]
