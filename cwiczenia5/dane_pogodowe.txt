@@ -1,0 +1,10 @@
+Œrednia temperatura punktów pomiarowych: 6.71 °C
+Minimalna temperatura: 5.4 °C w miejscu pomiaru: Katowice
+Maksymalna temperatura: 8.3 °C w miejscu pomiaru: Rzeszów
+Data oraz godzina pomiaru: 2024-04-1716
+Œrednia wartoœæ opadów: 2.45 mm
+Minimalna wartoœæ opadów: 0.0 mm w miejscu pomiaru: Lublin
+Maksymalna wartoœæ opadów: 13.9 mm w miejscu pomiaru: Gdañsk
+Œrednia wartoœæ ciœnienia: 1006.38 hPa
+Minimalna wartoœæ ciœnienia: 1003.8 hPa w miejscu pomiaru: Lublin
+Maksymalna wartoœæ ciœnienia: 1008.5 hPa w miejscu pomiaru: Szczecin
